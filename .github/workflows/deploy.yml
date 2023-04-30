@@ -1,4 +1,4 @@
-name: Deploy2
+name: Deploy1
 
 on:
   push:
@@ -11,14 +11,14 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        python-version: [3.9.7]
+        python-version: [3.10.9]
     steps:
       - uses: actions/checkout@v2
       # Setup Python
-      - name: Setup Python 3.9.7
+      - name: Setup Python 3.10.9
         uses: actions/setup-python@v2
         with:
-          python-version: "3.9.7"
+          python-version: "3.10.9"
           cache: "pip"
       # Install dependencies
       - name: Install Dependencies
