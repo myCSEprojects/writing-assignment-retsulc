@@ -4,6 +4,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b4e74a4e-ee30-4e50-b1af-f7864b096f04/deploy-status)](https://app.netlify.com/sites/writing-assignment-cs328/deploys)
 <!-- Replace this link with your generated Netlify website link -->
 Link: https://gh-pages--resonant-conkies-a57d0d.netlify.app
+
 Instructions: [Link](https://github.com/cs328-2022/writing-assignment/blob/main/_notebooks/instructions.ipynb)
 
 Suggestions based on Initial review: [Link](https://github.com/cs328-2022/writing-assignment/blob/main/_notebooks/suggestions.ipynb)
